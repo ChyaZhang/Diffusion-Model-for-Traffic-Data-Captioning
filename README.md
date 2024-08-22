@@ -1,1 +1,1 @@
-# Diffusion-Model-for-Traffic-Data-Captioning
+# Diffusion Model for Traffic Data Captioning
